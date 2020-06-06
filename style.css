@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
+  background-color: dodgerblue;
+}
+
+.tell {
+  background: #000;
+  text-align: center;
+  color: lightcoral;
+  width: 100;
+}
+
+.btn1 {
+  width: 50%;
+  background-color: green;
+  height: 100%;
+  cursor: cell;
+  text-align: left;
+}
+
+.btn2 {
+  width: 50%;
+  background-color: red;
+  cursor: help;
+  display: flex;
+  text-align: center;
+}
+
+h3 {
+  color: rgb(0, 95, 139);
+}
+
+.main {
+  background-color: #000;
+  color: white;
+  text-align: center;
+}

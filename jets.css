@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
+  background-color: gray;
+}
+
+body {
+  background-repeat: no-repeat;
+  text-align: center;
+  align-items: center;
+}
+
+.thank-you {
+  color: aqua;
+  background-color: steelblue;
+}
